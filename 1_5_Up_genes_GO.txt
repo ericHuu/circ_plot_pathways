@@ -1,0 +1,42 @@
+term id	term_descrption	Profile1	Profile2	Profile3	Profile10	Profile11
+GO:0044281	small molecule metabolic process	-2.462180905	-2.185752404	-2.020907099	NA	-2.025028006
+GO:0008152	metabolic process	-1.962573502	-2.454692884	NA	NA	NA
+GO:0006629	lipid metabolic process	-1.434152181	NA	NA	NA	-2.477555766
+GO:0006082	organic acid metabolic process	-1.431798276	NA	-2.142064735	NA	NA
+GO:0055088	lipid homeostasis	NA	-3.153044675	NA	NA	NA
+GO:0016298	lipase activity	NA	-3.063486258	NA	NA	NA
+GO:0016042	lipid catabolic process	NA	-3.029188389	NA	NA	NA
+GO:0008610	lipid biosynthetic process	NA	-2.754487332	NA	NA	NA
+GO:0004771	sterol esterase activity	NA	-2.619788758	NA	NA	NA
+GO:1901615	organic hydroxy compound metabolic process	NA	-2.437707136	NA	NA	NA
+GO:0008202	steroid metabolic process	NA	-2.375717904	NA	NA	NA
+GO:0006066	alcohol metabolic process	NA	-2.240332155	NA	NA	NA
+GO:1901617	organic hydroxy compound biosynthetic process	NA	-2.128427064	NA	NA	NA
+GO:0044255	cellular lipid metabolic process	NA	-2.101274818	NA	NA	-2.468521083
+GO:0042632	cholesterol homeostasis	NA	-2.067526235	NA	NA	NA
+GO:0016125	sterol metabolic process	NA	-2.026872146	NA	NA	NA
+GO:0044242	cellular lipid catabolic process	NA	-1.958607315	NA	NA	NA
+GO:0032787	monocarboxylic acid metabolic process	NA	-1.943095149	NA	NA	NA
+GO:0080030	methyl indole-3-acetate esterase activity	NA	-1.935542011	NA	NA	NA
+GO:0048878	chemical homeostasis	NA	-1.863279433	NA	NA	NA
+GO:0042221	response to chemical	NA	-1.844663963	NA	NA	NA
+GO:0006631	fatty acid metabolic process	NA	-1.826813732	NA	NA	NA
+GO:0019935	cyclic-nucleotide-mediated signaling	NA	-1.677780705	NA	NA	NA
+GO:0004806	triglyceride lipase activity	NA	-1.521433504	NA	NA	NA
+GO:0046890	regulation of lipid biosynthetic process	NA	-1.511449283	NA	NA	NA
+GO:0019752	carboxylic acid metabolic process	NA	NA	-1.772113295	NA	NA
+GO:0050727	regulation of inflammatory response	NA	NA	-2.623423043	NA	NA
+GO:1901700	response to oxygen-containing compound	NA	NA	-2.244125144	NA	NA
+GO:0043436	oxoacid metabolic process	NA	NA	-1.974694135	NA	NA
+GO:0007166	cell surface receptor signaling pathway	NA	NA	-1.910094889	NA	NA
+GO:0010033	response to organic substance	NA	NA	-1.735182177	NA	NA
+GO:0045444	fat cell differentiation	NA	NA	-1.612610174	NA	NA
+GO:0048856	anatomical structure development	NA	NA	-1.580044252	NA	NA
+GO:0019222	regulation of metabolic process	NA	NA	-1.507239611	NA	NA
+GO:0042127	regulation of cell population proliferation	NA	NA	-1.333482019	NA	NA
+GO:0043235	receptor complex	NA	NA	NA	-2.080398976	NA
+GO:0043167	ion binding	NA	NA	NA	-1.732828272	NA
+GO:0015645	fatty acid ligase activity	NA	NA	NA	NA	-2.504455662
+GO:0016405	CoA-ligase activity	NA	NA	NA	NA	-2.086186148
+GO:0016878	acid-thiol ligase activity	NA	NA	NA	NA	-1.829738285
+GO:0019637	organophosphate metabolic process	NA	NA	NA	NA	-1.806875402

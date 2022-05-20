@@ -1,0 +1,36 @@
+term ID	term escription	Profile8	Profile9
+GO:0003779	actin binding	-2.420216403	NA
+GO:0010959	regulation of metal ion transport	-2.266000713	NA
+GO:0045936	negative regulation of phosphate metabolic process	-2.204119983	NA
+GO:0030155	regulation of cell adhesion	-2.160521953	NA
+GO:0001932	regulation of protein phosphorylation	-2.088842391	NA
+GO:0051049	regulation of transport	-2.059483515	NA
+GO:0008092	cytoskeletal protein binding	-1.970616222	NA
+GO:0010634	positive regulation of epithelial cell migration	-1.946921557	NA
+GO:0098590	plasma membrane region	-1.906578315	NA
+GO:0097435	supramolecular fiber organization	-1.882728704	NA
+GO:0019220	regulation of phosphate metabolic process	-1.879426069	NA
+GO:0045785	positive regulation of cell adhesion	-1.866461092	NA
+GO:0032879	regulation of localization	-1.844663963	NA
+GO:0017016	Ras GTPase binding	-1.838631998	NA
+GO:0042325	regulation of phosphorylation	-1.815308569	NA
+GO:0019899	enzyme binding	-1.801342913	NA
+GO:0051020	GTPase binding	-1.785156152	NA
+GO:0051239	regulation of multicellular organismal process	-1.739928612	NA
+GO:0048518	positive regulation of biological process	-1.707743929	NA
+GO:0010595	positive regulation of endothelial cell migration	-1.705533774	NA
+GO:0010810	regulation of cell-substrate adhesion	-1.70333481	NA
+GO:0065008	regulation of biological quality	-1.684029655	NA
+GO:0042127	regulation of cell population proliferation	-1.684029655	NA
+GO:0048523	negative regulation of cellular process	-1.675717545	NA
+GO:0004518	nuclease activity	NA	-2.496209317
+GO:0016779	nucleotidyltransferase activity	NA	-2.448550002
+GO:0003964	RNA-directed DNA polymerase activity	NA	-2.4225082
+GO:0034061	DNA polymerase activity	NA	-2.356547324
+GO:0140097	"catalytic activity, acting on DNA"	NA	-2.321481621
+GO:0004519	endonuclease activity	NA	-2.30980392
+GO:0016788	"hydrolase activity, acting on ester bonds"	NA	-2.270025714
+GO:0016772	"transferase activity, transferring phosphorus-containing groups"	NA	-2.212539525
+GO:0016740	transferase activity	NA	-2.199282922
+GO:0003824	catalytic activity	NA	-2.161780778
+GO:0016787	hydrolase activity	NA	-2.133122186

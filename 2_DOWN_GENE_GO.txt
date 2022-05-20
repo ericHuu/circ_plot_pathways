@@ -1,0 +1,43 @@
+term ID	term description	Profile4	Profile5	Profile6	Profile7
+GO:0006725	cellular aromatic compound metabolic process	-2.3400838	NA	NA	NA
+GO:1901360	organic cyclic compound metabolic process	-2.262807357	NA	NA	NA
+GO:0090304	nucleic acid metabolic process	-2.205511953	NA	NA	NA
+GO:0046483	heterocycle metabolic process	-2.193820026	NA	NA	NA
+GO:0006139	nucleobase-containing compound metabolic process	-2.162411562	NA	NA	NA
+GO:0042127	regulation of cell population proliferation	-2.101274818	NA	NA	NA
+GO:0034641	cellular nitrogen compound metabolic process	-1.966576245	NA	NA	NA
+GO:0006974	cellular response to DNA damage stimulus	-1.910094889	NA	NA	NA
+GO:0006281	DNA repair	-1.847711656	NA	NA	NA
+GO:0032991	protein-containing complex	-1.821023053	NA	NA	NA
+GO:0008285	negative regulation of cell population proliferation	-1.617982957	NA	NA	NA
+GO:0006259	DNA metabolic process	-1.607303047	NA	NA	NA
+GO:0006396	RNA processing	-1.575118363	NA	NA	NA
+GO:0043229	intracellular organelle	-1.48945499	NA	NA	NA
+GO:0030198	extracellular matrix organization	NA	NA	-2.826813732	NA
+GO:0043062	extracellular structure organization	NA	NA	-2.774690718	NA
+GO:0097435	supramolecular fiber organization	NA	NA	-2.159893906	NA
+GO:0030199	collagen fibril organization	NA	NA	-1.286509457	NA
+GO:0090231	regulation of spindle checkpoint	NA	NA	NA	-3.110138279
+GO:1903504	regulation of mitotic spindle checkpoint	NA	NA	NA	-3.110138279
+GO:0090266	regulation of mitotic cell cycle spindle assembly checkpoint	NA	NA	NA	-3.110138279
+GO:0034709	methylosome	NA	NA	NA	-2.661543506
+GO:0051303	establishment of chromosome localization	NA	NA	NA	-2.643974143
+GO:0031145	anaphase-promoting complex-dependent catabolic process	NA	NA	NA	-2.630784143
+GO:0017116	single-stranded DNA helicase activity	NA	NA	NA	-2.567030709
+GO:0043138	3'-5' DNA helicase activity	NA	NA	NA	-2.567030709
+GO:0000725	recombinational repair	NA	NA	NA	-2.517126416
+GO:1902099	regulation of metaphase/anaphase transition of cell cycle	NA	NA	NA	-2.515700161
+GO:1905818	regulation of chromosome separation	NA	NA	NA	-2.514278574
+GO:0008094	DNA-dependent ATPase activity	NA	NA	NA	-2.512861625
+GO:0033045	regulation of sister chromatid segregation	NA	NA	NA	-2.472370099
+GO:0007059	chromosome segregation	NA	NA	NA	-2.42136079
+GO:0071103	DNA conformation change	NA	NA	NA	-2.416801226
+GO:1901991	negative regulation of mitotic cell cycle phase transition	NA	NA	NA	-2.416801226
+GO:0050000	chromosome localization	NA	NA	NA	-2.387216143
+GO:0010965	regulation of mitotic sister chromatid separation	NA	NA	NA	-2.377785977
+GO:0044772	mitotic cell cycle phase transition	NA	NA	NA	-2.367542708
+GO:0006260	DNA replication	NA	NA	NA	-2.349692477
+GO:1902749	regulation of cell cycle G2/M phase transition	NA	NA	NA	-2.330683119
+GO:1905653	positive regulation of artery morphogenesis	NA	-2.804100348	NA	NA
+GO:1905651	regulation of artery morphogenesis	NA	-2.804100348	NA	NA
+GO:0048583	regulation of response to stimulus	NA	-2.749579998	NA	NA
